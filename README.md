@@ -2,6 +2,11 @@
 
 A privacy-preserving system for tracking exam scores using Fully Homomorphic Encryption (FHE) on the FHEVM protocol by Zama.
 
+## 🎥 Demo Video & Deployment
+
+- **📹 Demo Video**: [Download question.mp4](./question.mp4) - Watch the full demonstration of the encrypted exam score system
+- **🚀 Live Deployment**: [https://study-eight-zeta.vercel.app/](https://study-eight-zeta.vercel.app/) - Try the live application
+
 ## Overview
 
 This system allows users to:
